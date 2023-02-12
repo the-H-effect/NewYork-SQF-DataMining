@@ -4,13 +4,13 @@
 
 This project analyzes the 2012 SQF datasets (>500,000 records). The analysis is divided into **four sections**: 
 
-**Exploratory Data Analysis (of the dataset Attributes),** 
+**1. Exploratory Data Analysis (of the dataset Attributes),** 
 
-**Association Mining of frequent attributes that occur together,** 
+**2. Association Mining of frequent attributes that occur together,** 
 
-**Cluster analysis,** and 
+**3. Cluster analysis,** and 
 
-**Predictive modeling of three variables.**
+**4. Predictive modeling of three variables.**
 
 ## Exploratory Data Analysis (EDA)
 
